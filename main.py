@@ -56,7 +56,7 @@ with col2:
                     st.markdown(" ".join([f"`{k}`" for k in keywords]))
 
                     # 본문 내용 (복사하기 좋게 텍스트 에어리어로)
-                    st.write(" **상세 설명 (블로그/플랫폼용**")
+                    st.write(" **상세 설명 (블로그/플랫폼용)**")
                     st.text_area("결과 복사", value=desc + "\n\n" + hashtags, height=250)
 
                     st.info(" 팁: 위 내용을 복사해서 블로그나 플랫폼에 바로 붙여넣으세요")
