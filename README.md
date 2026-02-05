@@ -139,3 +139,5 @@ AI 모델은 마케팅 문구를 다음과 같은 JSON 구조로 반환합니다
 ```
 
 ## 7. 실행 화면
+<img width="639" height="628" alt="스크린샷 2026-02-05 120601" src="https://github.com/user-attachments/assets/0ce9b9a6-4a65-44d3-a07a-f309be3065fb" />
+
